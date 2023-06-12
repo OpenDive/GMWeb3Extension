@@ -13,17 +13,21 @@
   "author": "",
   "classname": "",
   "copyToTargets": 32,
-  "date": "2023-06-12T11:47:20.081907-04:00",
+  "date": "2023-06-12T12:46:40.395309-04:00",
   "description": "",
   "exportToGame": true,
   "extensionVersion": "0.0.1",
   "files": [
     {"resourceType":"GMExtensionFile","resourceVersion":"1.0","name":"","constants":[],"copyToTargets":32,"filename":"Web3Extension.js","final":"","functions":[
+        {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"add","argCount":0,"args":[
+            2,
+            2,
+          ],"documentation":"","externalName":"add","help":"add(val1, val2)","hidden":false,"kind":5,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"connectWallet","argCount":0,"args":[],"documentation":"","externalName":"connectWallet","help":"connectWallet()","hidden":false,"kind":5,"returnType":1,},
       ],"init":"","kind":5,"order":[],"origname":"","ProxyFiles":[],"uncompress":false,"usesRunnerInterface":false,},
   ],
   "gradleinject": "",
-  "hasConvertedCodeInjection": true,
+  "hasConvertedCodeInjection": false,
   "helpfile": "",
   "HTML5CodeInjection": "",
   "html5Props": false,

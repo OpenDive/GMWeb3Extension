@@ -1,5 +1,11 @@
+function add(value1, value2) {
+    var result;
+    result = value1 + value2;
+    return result;
+}
 
 async function connectWallet() {
+    console.log("Connect to wallet ...");
     var map = {};
     map["id"] = "getWalletAddress";
     map["address"] = "0";

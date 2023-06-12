@@ -35,7 +35,7 @@
   },
   "resources": [
     {"id":{"name":"Web3Extension","path":"extensions/Web3Extension/Web3Extension.yy",},},
-    {"id":{"name":"Web3Controller","path":"objects/Web3Controller/Web3Controller.yy",},},
+    {"id":{"name":"objs_test","path":"objects/objs_test/objs_test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
