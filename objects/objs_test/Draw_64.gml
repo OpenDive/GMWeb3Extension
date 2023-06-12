@@ -3,3 +3,7 @@
 var rslt = 0;
 rslt = add(10, 40);
 draw_text(10, 10, string(rslt));
+
+function drawAddress(address) {
+	draw_text(100, 100, address);
+}

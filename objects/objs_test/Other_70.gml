@@ -12,5 +12,6 @@ if (my_id=="getWalletAddress")
 	else
 	{
 		show_debug_message("Got user address as"+string(global.user_address));
+		drawAddress(string(global.user_address));
 	}
 }
